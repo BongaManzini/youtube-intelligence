@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.eggs/
+*.egg-info/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Large files
+*.deb
+*.AppImage
+*.tar.xz
+*.tar.gz
+*.exe
+*.dmg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Flutter
+.dart_tool/
+*.freezed.dart
+*.g.dart
+
+# Logs
+*.log
+npm-debug.log*
+
